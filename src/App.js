@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Bash 脚本自动构建测试
+         bash脚本部署开始
         </a>
       </header>
     </div>
